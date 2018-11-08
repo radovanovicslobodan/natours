@@ -1,5 +1,5 @@
 # Natours - Fictional tourist agency website
 
-https://radovanovicslobodan.github.io/natours/
+demo: https://radovanovicslobodan.github.io/natours/
 
 design by Jonas Schmedtmann
